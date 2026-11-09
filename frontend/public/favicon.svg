@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Medisync AI">
+  <defs>
+    <linearGradient id="brand" x1="9" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#78A7FF"/>
+      <stop offset=".52" stop-color="#A88AFF"/>
+      <stop offset="1" stop-color="#ED8BD5"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="#14151B"/>
+  <path fill="url(#brand)" d="M32 11c-2.2 0-4 1.8-4 4v13H15c-2.2 0-4 1.8-4 4s1.8 4 4 4h13v13c0 2.2 1.8 4 4 4s4-1.8 4-4V36h13c2.2 0 4-1.8 4-4s-1.8-4-4-4H36V15c0-2.2-1.8-4-4-4Z"/>
+</svg>
